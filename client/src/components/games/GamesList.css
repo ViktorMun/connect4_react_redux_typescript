@@ -1,0 +1,21 @@
+h2 {
+  margin-bottom: 16px;
+  font-size: 14px;
+}
+
+.game-card {
+  margin: 10px 10px 10px 0px;
+}
+
+.create-game {
+  margin-top: 10px !important;
+}
+
+.outer-paper {
+  margin: auto;
+  width: 80%;
+}
+body {
+   background-image: url("https://eportal.aaua.edu.ng/frontend/assets/img/bg/5.jpg");
+
+}
