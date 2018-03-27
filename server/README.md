@@ -1,6 +1,6 @@
 # Tic Tac Toe Server
 
-This is a server for playing a multiplayer Tic Tac Toe game. 
+This is a server for playing a multiplayer Connect 4 game. 
 
 It has these endpoints:
 
